@@ -15,6 +15,17 @@ The upstream project must be deployed at root path.
 
 This project supports relative path.So you can deploy dist dir into any path on the server.
 
+## usage
+You should execute in terminal: 
+
+`
+tsc -w
+`
+
+This command can  auto compile all typescript file into javascript file.
+
+Other usage is same to upstream project.
+
 # element-plus-starter
 This is upstream project.
 
